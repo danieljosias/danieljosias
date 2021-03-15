@@ -24,3 +24,10 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <br>
 
 ### :books: Estudando
+
+<img alt="git" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
+
+### ✉️ Meus contatos
+<https://www.linkedin.com/in/daniel-josias-99482a208>
+
+
