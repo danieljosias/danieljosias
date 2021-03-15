@@ -1,10 +1,14 @@
 # Olá, Devs!👋 
-O meu nome é Daniel Josias. :smiley:
 
-Sou programador **front-end**, mas futuramente
-quero ser **full-stack**.
+:smiley: O meu nome é Daniel Josias. 
 
-### :computer: linguagens de programação
+:rocket: Sou programador **front-end**,
+mas futuramente quero ser **full-stack**. 
+
+### :computer: Linguagens de programação
+
 ### Frameworks
-### Versionador
+
+### Biblioteca
+
 ### :books: Estudando
