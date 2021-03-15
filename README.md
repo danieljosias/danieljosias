@@ -6,7 +6,7 @@
 mas futuramente quero ser **full-stack**. 
 
 ### :computer: Linguagens de programação
-<img src="MARKDOWN\IMG\JS.SVG">
+<img src="">
 
 ### :zap: Ferramentas
 
