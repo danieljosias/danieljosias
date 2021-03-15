@@ -7,8 +7,6 @@ mas futuramente quero ser **full-stack**.
 
 ### :computer: Linguagens de programação
 
-### Frameworks
-
-### Biblioteca
+### :zap: Ferramentas
 
 ### :books: Estudando
