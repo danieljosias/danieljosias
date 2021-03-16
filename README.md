@@ -1,6 +1,6 @@
 # Olá, Devs!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">
 
-:smiley: O meu nome é **Daniel Josias**. 
+:smiley: O meu nome é **Daniel Josias**.
 
 :rocket: Sou programador **front-end**,
 mas futuramente quero ser **full-stack**.
@@ -27,7 +27,7 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <br>
 
 <!--IMG FUNDO-->
-<img alt="img fundo" align="right"  src="https://camo.githubusercontent.com/902cd6777c8aa4303b2d6fbafe2fead62e0daa67b3a27b3c66335de5232422be/68747470733a2f2f692e6962622e636f2f3662767257544a2f636f6d70757465722d696c6c757374726174696f6e2e706e67">
+<img alt="img fundo" align="right" src="https://camo.githubusercontent.com/902cd6777c8aa4303b2d6fbafe2fead62e0daa67b3a27b3c66335de5232422be/68747470733a2f2f692e6962622e636f2f3662767257544a2f636f6d70757465722d696c6c757374726174696f6e2e706e67">
 
 ### :books: Estudando:
 
