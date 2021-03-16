@@ -1,9 +1,11 @@
-# Olá, Devs!👋 
+# Olá, Devs!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="">
 
 :smiley: O meu nome é Daniel Josias. 
 
 :rocket: Sou programador **front-end**,
-mas futuramente quero ser **full-stack**. 
+mas futuramente quero ser **full-stack**.
+
+<hr>
 
 ### :computer: Linguagens de programação
 <img align="left" alt ="html" 
@@ -15,6 +17,7 @@ src="https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82
 <img align="left" alt="css"
 src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
 <br>
+<hr>
 
 ### :zap: Frameworks
 
@@ -22,12 +25,14 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 
 <img align="left" alt="react js" src="https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642">
 <br>
+<hr>
 
 ### :books: Estudando
 
 <img alt="git" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
 
 ### ✉️ Meus contatos
-<https://www.linkedin.com/in/daniel-josias-99482a208>
+<a href="https://www.linkedin.com/in/daniel-josias-99482a208?">
+
 
 
