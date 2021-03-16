@@ -7,7 +7,7 @@ mas futuramente quero ser **full-stack**.
 
 <hr>
 
-### :computer: Linguagens de programação
+### :computer: Linguagens de programação:
 <img align="left" alt ="html" 
 src="https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
 
@@ -19,7 +19,7 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <br>
 <hr>
 
-### :zap: Frameworks
+### :zap: Frameworks:
 
 <img align="left" alt="bootstrap" src="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
 
@@ -27,12 +27,13 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <br>
 <hr>
 
-### :books: Estudando
+### :books: Estudando:
 
 <img alt="git" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
 <hr>
 
-### ✉️ Meus contatos
+### ✉️ Meus contatos:
+
 https://www.linkedin.com/in/daniel-josias-99482a208/
 
 
