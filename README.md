@@ -1,8 +1,8 @@
 # Olá, Devs!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">
 
-:smiley: O meu nome é **Daniel Josias**.
+## :smiley: O meu nome é **Daniel Josias**.
 
-:rocket: Sou programador **front-end**,
+## :rocket: Sou programador **front-end**,
 mas futuramente quero ser **full-stack**.
 
 <hr>
