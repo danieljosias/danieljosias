@@ -1,4 +1,4 @@
-# Olá, Devs!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="">
+# Olá, Devs!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">
 
 :smiley: O meu nome é **Daniel Josias**. 
 
@@ -33,7 +33,7 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <hr>
 
 ### ✉️ Meus contatos
-<a href="https://www.linkedin.com/in/daniel-josias-99482a208?">
+https://www.linkedin.com/in/daniel-josias-99482a208/
 
 
 
