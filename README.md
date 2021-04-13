@@ -40,7 +40,7 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <br>
 <br>
 
-<p> :computer: Estudando: </p>
+<p> :pencil2: Estudando: </p>
 <img alt="redux" src="">
 
 <p> :iphone: Meus contatos: </p>
