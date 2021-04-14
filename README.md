@@ -41,7 +41,7 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 <br>
 
 <p> :pencil2: Estudando: </p>
-<img alt="redux" src="">
+<img alt="redux" align="left" src="https://img.shields.io/badge/redux -#593d88.svg?&style=for-the-badge&logo=redux&logoColor=white">
 
 <p> :iphone: Meus contatos: </p>
 https://www.linkedin.com/in/daniel-josias-99482a208/
