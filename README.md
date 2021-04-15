@@ -42,9 +42,10 @@ src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b
 
 <p> :pencil2: Estudando: </p>
 
-<img alt="redux" align="left" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Firebase" align="left" src="https://img.shields.io/badge/Firebase-FFA500?style=flat&logoWidth=40" />
+<img alt="Redux" align="left" src="https://img.shields.io/badge/Redux-483D8B?style=flat&logoWidth=40" alt="Redux" />
 <br>
 <br>
 
 <p> :iphone: Meus contatos: </p>
-https://www.linkedin.com/in/daniel-josias-99482a208/
+<a alt="Linkedin" href="https://www.linkedin.com/in/daniel-josias-99482a208/"><img src="https://img.shields.io/badge/Linkedin-1E90FF?style=flat&logoWidth=40&link=https://www.linkedin.com/in/daniel-josias-99482a208/"></a>
