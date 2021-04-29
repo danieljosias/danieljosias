@@ -39,9 +39,6 @@
 <br>
 
 <p> :pencil2: Estudando: </p>
-
-<img alt="Firebase" align="left" src="https://img.shields.io/badge/Firebase-FFA500?style=flat&logoWidth=40" />
-<img alt="Redux" align="left" src="https://img.shields.io/badge/Redux-483D8B?style=flat&logoWidth=40" />
 <img alt="Sass" align="left" src="https://img.shields.io/badge/SASS-ffc4d8?style=flat" />
 <br>
 <br>
