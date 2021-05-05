@@ -20,18 +20,18 @@
 <br>
 
 <p> :books: Bibliotecas: </p>
-<img alt="React" src="https://img.shields.io/badge/React-00FFFF?style=plastic&logoWidth=200"  />
+<img src="https://img.shields.io/badge/React-00FFFF?style=plastic" alt="React" />
 <br>
 <br>
 
 <p> 👨‍💻 Pré-processadores: </p>
-<img alt="Sass" align="left" src="https://img.shields.io/badge/SASS-ffc4d8?style=flat" />
+<img alt="Sass" src="https://img.shields.io/badge/SASS-ffc4d8?style=flat" />
 <br>
 <br>
 
 <p> 🖥 Versionadores: </p>
  
- <img alt="git" align="left" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
+ <img alt="git" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
 <br>
 <br>
 
@@ -43,7 +43,6 @@
 <img alt="github" align="left" src="https://camo.githubusercontent.com/59a8c5aa4b58bba625bbb5fa448866bbd9a24a0d261002db8ddc6ca9ca5a0ae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646">
 <br>
 <br>
-
 
 <p> :pencil2: Estudando: </p>
 <img alt="Ecmascript6"  src="https://img.shields.io/badge/Ecmascript6-FFD700?style=plastic"  />
