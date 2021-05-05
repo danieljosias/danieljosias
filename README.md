@@ -20,7 +20,7 @@
 <br>
 
 <p> :books: Bibliotecas: </p>
-<img align="left" alt="react js" src="https://img.shields.io/badge/REACT-gray?style=flat" >
+<img alt="React" src="https://img.shields.io/badge/React-00FFFF?style=plastic&logoWidth=200"  />
 <br>
 <br>
 
