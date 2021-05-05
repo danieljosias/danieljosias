@@ -18,8 +18,20 @@
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-purple?style=flat">
 <br>
 <br>
+
 <p> :books: Bibliotecas: </p>
 <img align="left" alt="react js" src="https://img.shields.io/badge/REACT-gray?style=flat" >
+<br>
+<br>
+
+<p> 👨‍💻 Pré-processadores: </p>
+<img alt="Sass" align="left" src="https://img.shields.io/badge/SASS-ffc4d8?style=flat" />
+<br>
+<br>
+
+<p> 🖥 Versionadores: </p>
+ 
+ <img alt="git" align="left" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
 <br>
 <br>
 
@@ -32,14 +44,9 @@
 <br>
 <br>
 
-<p> 🖥 Versionadores: </p>
- 
- <img alt="git" align="left" src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
-<br>
-<br>
 
 <p> :pencil2: Estudando: </p>
-<img alt="Sass" align="left" src="https://img.shields.io/badge/SASS-ffc4d8?style=flat" />
+<img alt="Ecmascript6"  src="https://img.shields.io/badge/Ecmascript6-FFD700?style=plastic"  />
 <br>
 <br>
 
