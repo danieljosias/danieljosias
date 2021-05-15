@@ -46,9 +46,9 @@
 <br>
 
 <p> :pencil2: Estudando: </p>
-
+<img align="left" src="https://img.shields.io/badge/REDUX-9370DB?style=for-the-badge" alt="REDUX" />
 <br>
 <br>
 
 <p> :iphone: Meus contatos: </p>
-<a alt="Linkedin" href="https://www.linkedin.com/in/daniel-josias-99482a208/"><img src="https://img.shields.io/badge/Linkedin-1E90FF?style=flat&logoWidth=40&link=https://www.linkedin.com/in/daniel-josias-99482a208/"></a>
+<a alt="Linkedin" href="https://www.linkedin.com/in/daniel-josias-99482a208/"><img src="https://img.shields.io/badge/LINKEDIN-1E90FF?style=for-the-badge" alt="LINKEDIN" /></a>
