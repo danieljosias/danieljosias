@@ -6,26 +6,28 @@
 
 <p> 🛠️ Linguagens de programação: </p>
 
-<img align="left" alt ="html" src="https://img.shields.io/badge/HTML-orange?style=flat" >
+<img align="left" src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge" alt="HTML5" />
 
-<img align="left" alt ="js" src="https://img.shields.io/badge/JavaScript-yellow?style=flat" >
+<img align="left" src="https://img.shields.io/badge/JavaScript5-FFD700?style=for-the-badge" alt="JavaScript5" />
 
-<img align="left"  alt="css" src="https://img.shields.io/badge/CSS3-blue?style=flat" >
+<img align="left" src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge" alt="CSS3" />
+
+<img align="left" src="https://img.shields.io/badge/ECMAScript6-FFD700?style=for-the-badge" alt="ECMAScript6" />
 <br>
 <br>
 
 <p> ⚙️ Frameworks: </p>
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-purple?style=flat">
+<img align="left" src="https://img.shields.io/badge/BOOTSTRAP4-6A5ACD?style=for-the-badge" alt="BOOTSTRAP4" />
 <br>
 <br>
 
 <p> :books: Bibliotecas: </p>
-<img alt="React" align="left"  src="https://img.shields.io/badge/React-00FFFF?style=plastic"  />
+<img align="left" src="https://img.shields.io/badge/REACT JS-00BFFF?style=for-the-badge" alt="REACT JS" />
 <br>
 <br>
 
 <p> 👨‍💻 Pré-processadores: </p>
-<img alt="Sass" align="left"  src="https://img.shields.io/badge/SASS-ffc4d8?style=flat" />
+<img align="left" src="https://img.shields.io/badge/SASS-DA70D6?style=for-the-badge" alt="SASS" />
 <br>
 <br>
 <p> 🖥 Versionadores: </p>
@@ -44,7 +46,7 @@
 <br>
 
 <p> :pencil2: Estudando: </p>
-<img alt="Ecmascript6" align="left"  src="https://img.shields.io/badge/Ecmascript6-FFD700?style=plastic"  />
+
 <br>
 <br>
 
