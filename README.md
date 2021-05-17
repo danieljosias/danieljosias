@@ -12,7 +12,7 @@
 
 <img align="left" src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge" alt="CSS3" />
 
-<img align="left" src="https://img.shields.io/badge/ECMAScript6-FFD700?style=for-the-badge" alt="ECMAScript6" />
+<img src="https://img.shields.io/badge/ECMAScript6-FFD700?style=for-the-badge" alt="ECMAScript6" />
 <br>
 <br>
 
