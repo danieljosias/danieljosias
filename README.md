@@ -8,11 +8,11 @@
 
 <img align="left" src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge" alt="HTML5" />
 
-<img align="left" src="https://img.shields.io/badge/JavaScript5-FFD700?style=for-the-badge" alt="JavaScript5" />
+<img align="left" src="https://img.shields.io/badge/JS5-FFD700?style=for-the-badge" alt="JS5" />
 
 <img align="left" src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge" alt="CSS3" />
 
-<img align="left" src="https://img.shields.io/badge/ECMAScript6-FFD700?style=for-the-badge" alt="ECMAScript6" />
+<img align="left" src="https://img.shields.io/badge/ES5-FFD700?style=for-the-badge" alt="ES5" />
 <br>
 <br>
 
