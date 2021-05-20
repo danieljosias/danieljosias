@@ -46,7 +46,7 @@
 <br>
 
 <p> :pencil2: Estudando: </p>
-<img  align="left" src="https://img.shields.io/badge/Style Component-FF69B4?style=for-the-badge" alt="Style Component" />
+<img align="left" src="https://img.shields.io/badge/Styled Component-FF69B4?style=for-the-badge" alt="Styled Component" />
 <br>
 <br>
 
