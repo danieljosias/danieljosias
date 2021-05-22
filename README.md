@@ -18,11 +18,13 @@
 <br>
 <p> ⚙️ Frameworks: </p>
 <img align="left" src="https://img.shields.io/badge/BOOTSTRAP4-6A5ACD?style=for-the-badge" alt="BOOTSTRAP4" />
+<img align="left" src="https://img.shields.io/badge/Materialize-FA8072?style=for-the-badge" alt="Materialize" />
 <br>
 <br>
 
 <p> :books: Bibliotecas: </p>
 <img align="left" src="https://img.shields.io/badge/REACT JS-00BFFF?style=for-the-badge" alt="REACT JS" />
+<img align="left" src="https://img.shields.io/badge/STYLED COMPONENTS-FF69B4?style=for-the-badge" alt="STYLED COMPONENTS" />
 <br>
 <br>
 
@@ -42,11 +44,6 @@
 <img alt="windows" align="left" src="https://camo.githubusercontent.com/c99c5c1e2b0441d15f05924226ce0cfd7d9880960fd66b15469ee761ed8a6b7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3030373844363f266c6f676f3d57696e646f7773266c6f676f436f6c6f723d464646464646">
 
 <img alt="github" align="left" src="https://camo.githubusercontent.com/59a8c5aa4b58bba625bbb5fa448866bbd9a24a0d261002db8ddc6ca9ca5a0ae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646">
-<br>
-<br>
-
-<p> :pencil2: Estudando: </p>
-<img align="left" src="https://img.shields.io/badge/Styled Component-FF69B4?style=for-the-badge" alt="Styled Component" />
 <br>
 <br>
 
