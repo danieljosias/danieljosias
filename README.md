@@ -19,6 +19,7 @@
 <p> ⚙️ Frameworks: </p>
 <img align="left" src="https://img.shields.io/badge/BOOTSTRAP4-6A5ACD?style=for-the-badge" alt="BOOTSTRAP4" />
 <img align="left" src="https://img.shields.io/badge/Materialize-FA8072?style=for-the-badge" alt="Materialize" />
+<img align="left" src="https://img.shields.io/badge/NEXT JS-c0c0c0?style=for-the-badge" alt="NEXT JS" />
 <br>
 <br>
 
