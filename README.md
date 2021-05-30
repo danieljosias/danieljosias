@@ -22,7 +22,7 @@
 <img align="left" src="https://img.shields.io/badge/NEXT JS-c0c0c0?style=for-the-badge" alt="NEXT JS" />
 <br>
 <br>
-
+<br/>
 <p> :books: Bibliotecas: </p>
 <img align="left" src="https://img.shields.io/badge/REACT JS-00BFFF?style=for-the-badge" alt="REACT JS" />
 <img align="left" src="https://img.shields.io/badge/STYLED COMPONENTS-FF69B4?style=for-the-badge" alt="STYLED COMPONENTS" />
