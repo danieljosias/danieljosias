@@ -48,6 +48,6 @@
 <img alt="github" align="left" src="https://camo.githubusercontent.com/59a8c5aa4b58bba625bbb5fa448866bbd9a24a0d261002db8ddc6ca9ca5a0ae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646">
 <br>
 <br>
-
+<br>
 <p> :iphone: Meus contatos: </p>
 <a alt="Linkedin" href="https://www.linkedin.com/in/daniel-josias-99482a208/"><img src="https://img.shields.io/badge/LINKEDIN-1E90FF?style=for-the-badge" alt="LINKEDIN" /></a>
