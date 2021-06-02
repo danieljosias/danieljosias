@@ -52,4 +52,4 @@
 <p> :iphone: Meus contatos: </p>
 <a alt="Linkedin" href="https://www.linkedin.com/in/daniel-josias-99482a208/"><img src="https://img.shields.io/badge/LINKEDIN-1E90FF?style=for-the-badge" alt="LINKEDIN" /></a>
 
-![image](https://user-images.githubusercontent.com/77212802/120560614-61bc9300-c3d9-11eb-8c0c-270f3b74ea4f.png)
+![image](https://user-images.githubusercontent.com/77212802/120561772-8fa2d700-c3db-11eb-8893-56edd8868701.png)
