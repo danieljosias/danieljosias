@@ -14,15 +14,15 @@
 
 <img align="left" src="https://img.shields.io/badge/ES5-FFD700?style=for-the-badge" alt="ES5" />
 
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge"  />
+<img align="left"  alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge"  />
 <br>
 <br>
 <br>
 <p> ⚙️ Frameworks: </p>
-<img align="left" src="https://img.shields.io/badge/BOOTSTRAP4-6A5ACD?style=for-the-badge" alt="BOOTSTRAP4" />
+<img align="left" src="https://img.shields.io/badge/BOOTSTRAP-6A5ACD?style=for-the-badge" alt="BOOTSTRAP" />
 <img align="left" src="https://img.shields.io/badge/Materialize-FA8072?style=for-the-badge" alt="Materialize" />
 <img align="left" src="https://img.shields.io/badge/NEXT JS-c0c0c0?style=for-the-badge" alt="NEXT JS" />
-<img src="https://img.shields.io/badge/Material UI-00BFFF?style=for-the-badge" alt="Material UI" />
+<img align="left" src="https://img.shields.io/badge/Material UI-00BFFF?style=for-the-badge" alt="Material UI" />
 <br>
 <br>
 <br/>
@@ -39,7 +39,7 @@
 <br>
 <p> 🖥 Versionadores: </p>
  
- <img alt="git" align="left"  src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
+ <img align="left" alt="git"  src="https://camo.githubusercontent.com/722b3eed436e9cf01107d48c5d91af4d26095f89de4252826aa3211e1d28559f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f266c6f676f3d676974266c6f676f436f6c6f723d464646464646">
 <br>
 <br>
 <br>
