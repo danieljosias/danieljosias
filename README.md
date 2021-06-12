@@ -13,6 +13,8 @@
 <img align="left" src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge" alt="CSS3" />
 
 <img align="left" src="https://img.shields.io/badge/ES5-FFD700?style=for-the-badge" alt="ES5" />
+
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge"  />
 <br>
 <br>
 <br>
@@ -20,6 +22,7 @@
 <img align="left" src="https://img.shields.io/badge/BOOTSTRAP4-6A5ACD?style=for-the-badge" alt="BOOTSTRAP4" />
 <img align="left" src="https://img.shields.io/badge/Materialize-FA8072?style=for-the-badge" alt="Materialize" />
 <img align="left" src="https://img.shields.io/badge/NEXT JS-c0c0c0?style=for-the-badge" alt="NEXT JS" />
+<img src="https://img.shields.io/badge/Material UI-00BFFF?style=for-the-badge" alt="Material UI" />
 <br>
 <br>
 <br/>
