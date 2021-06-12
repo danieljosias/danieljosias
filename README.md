@@ -4,7 +4,7 @@
 
 ## :rocket: Sou programador **front-end**, mas futuramente quero ser **full-stack**.
 
-<p> 🛠️ Linguagens de programação: </p>
+<p> 🛠️ Minhas linguagens de programação: </p>
 
 <img align="left" src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge" alt="HTML5" />
 
