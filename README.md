@@ -36,8 +36,10 @@
 <br>
 <br>
 <br>
+<br>
 <p> 👨‍💻 Pré-processadores: </p>
 <img align="left" src="https://img.shields.io/badge/SASS-DA70D6?style=for-the-badge" alt="SASS" />
+<br>
 <br>
 <br>
 <br>
