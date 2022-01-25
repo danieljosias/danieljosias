@@ -2,7 +2,7 @@
 
 ## :smiley: O meu nome é **Daniel Josias**.
 
-## :rocket: Sou programador **front-end**.
+## :rocket: Sou programador **full-stack**
 
 <p> 🛠️ Abaixo minhas linguagens de programação: </p>
 
