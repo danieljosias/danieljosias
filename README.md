@@ -29,25 +29,25 @@
 <br>
 
 ## Back-End
-<img src="https://img.shields.io/badge/NodeJs-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="NodeJs" />
+<img align="left" src="https://img.shields.io/badge/NodeJs-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="NodeJs" />
 
-<img src="https://img.shields.io/badge/Express-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Express" />
+<img align="left" src="https://img.shields.io/badge/Express-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Express" />
 
-<img src="https://img.shields.io/badge/TypeScript-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="TypeScript" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="TypeScript" />
 
-<img src="https://img.shields.io/badge/Mysql-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Mysql" />
+<img align="left" src="https://img.shields.io/badge/Mysql-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Mysql" />
 
-<img src="https://img.shields.io/badge/PostgreSQL-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="PostgreSQL" />
+<img align="left" src="https://img.shields.io/badge/PostgreSQL-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="PostgreSQL" />
 
-<img src="https://img.shields.io/badge/Python-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Python" />
+<img align="left" src="https://img.shields.io/badge/Python-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Python" />
 
-<img src="https://img.shields.io/badge/Django-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Django" />
+<img align="left" src="https://img.shields.io/badge/Django-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Django" />
 
-<img src="https://img.shields.io/badge/ORM-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="ORM" />
+<img align="left" src="https://img.shields.io/badge/ORM-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="ORM" />
 
-<img src="https://img.shields.io/badge/MongoDB-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="MongoDB" />
+<img align="left" src="https://img.shields.io/badge/MongoDB-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="MongoDB" />
 
-<img src="https://img.shields.io/badge/Migrations-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Migrations" />
+<img align="left" src="https://img.shields.io/badge/Migrations-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Migrations" />
 
 <br>
 <br>
