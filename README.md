@@ -43,7 +43,6 @@
 
 <img align="left" src="https://img.shields.io/badge/MongoDB-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="MongoDB" />
 
-<br><br>
 <img align="left" src="https://img.shields.io/badge/Migrations-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Migrations" />
 
 <br>
