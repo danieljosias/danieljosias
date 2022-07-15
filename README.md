@@ -2,13 +2,13 @@
 
 ## :smiley: O meu nome é **Daniel Josias**.
 
-## :rocket: Sou programador **full-stack**
+## :rocket: Sou programador **full-stack**.
 
-## ❤️ Sou paixonado por **programação**
+## ❤️ Sou paixonado por **programação**.
 
-## 📚 Estudo programação há dois anos
+## 📚 Estudo programação há dois anos.
 
-## 🛠️ E abaixo estão as minhas ferramentas de trabalho
+## 🛠️ E abaixo estão as minhas ferramentas de trabalho:
 
 ## Front-End
 
@@ -25,8 +25,6 @@
 <img align="left" src="https://img.shields.io/badge/Styled%20Components-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Styled Components" />
 
 <br>
-<br>
-<br>
 
 ## Back-End
 <img align="left" src="https://img.shields.io/badge/NodeJs-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="NodeJs" />
@@ -34,8 +32,6 @@
 <img align="left" src="https://img.shields.io/badge/Express-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Express" />
 
 <img align="left" src="https://img.shields.io/badge/TypeScript-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="TypeScript" />
-
-<img align="left" src="https://img.shields.io/badge/Mysql-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Mysql" />
 
 <img align="left" src="https://img.shields.io/badge/PostgreSQL-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="PostgreSQL" />
 
@@ -47,10 +43,9 @@
 
 <img align="left" src="https://img.shields.io/badge/MongoDB-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="MongoDB" />
 
+<br><br>
 <img align="left" src="https://img.shields.io/badge/Migrations-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Migrations" />
 
-<br>
-<br>
 <br>
 
 ## 🧰 Ferramentas
@@ -74,8 +69,6 @@
 
 <img align="left" src="https://img.shields.io/badge/vercel-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="vercel" />
 
-<br>
-<br>
 <br>
 
 ## Meus contatos
