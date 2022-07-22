@@ -4,76 +4,43 @@
 
 ## :rocket: Sou programador **full-stack**.
 
-## ❤️ Sou paixonado por **programação**.
+## ❤️ Sou apaixonado por **programação**.
 
 ## 📚 Estudo programação há dois anos.
 
 ## 🛠️ E abaixo estão as minhas ferramentas de trabalho:
 
-## Front-End
-
-<img align="left" src="https://img.shields.io/badge/html-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="html" />
-
-<img align="left" src="https://img.shields.io/badge/css3-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="css3" />
-
-<img align="left" src="https://img.shields.io/badge/js5-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="js5" />
-
-<img align="left" src="https://img.shields.io/badge/es6-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="es6" />
-
-<img align="left" src="https://img.shields.io/badge/react-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="react" />
-
-<img align="left" src="https://img.shields.io/badge/Styled%20Components-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Styled Components" />
-
-<br>
-<br>
-
-## Back-End
-<img align="left" src="https://img.shields.io/badge/NodeJs-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="NodeJs" />
-
-<img align="left" src="https://img.shields.io/badge/Express-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Express" />
-
-<img align="left" src="https://img.shields.io/badge/TypeScript-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="TypeScript" />
-
-<img align="left" src="https://img.shields.io/badge/PostgreSQL-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="PostgreSQL" />
-
-<img align="left" src="https://img.shields.io/badge/Python-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Python" />
-
-<img align="left" src="https://img.shields.io/badge/Django-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Django" />
-
-<img align="left" src="https://img.shields.io/badge/ORM-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="ORM" />
-
-<img align="left" src="https://img.shields.io/badge/MongoDB-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="MongoDB" />
-
-<img align="left" src="https://img.shields.io/badge/Migrations-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Migrations" />
-
-<br>
-<br>
-
-## Ferramentas
-<img align="left" src="https://img.shields.io/badge/VSCode-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="VSCode" />
-
-<img align="left" src="https://img.shields.io/badge/Windows-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Windows" />
-
-<img align="left" src="https://img.shields.io/badge/Github-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Github" />
-
-<img align="left" src="https://img.shields.io/badge/Git-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="Git" />
-
-<img align="left" src="https://img.shields.io/badge/figma-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="figma" />
-
-<img align="left" src="https://img.shields.io/badge/trello-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="trello" />
-
-<img align="left" src="https://img.shields.io/badge/zoom-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="zoom" />
-
-<img align="left" src="https://img.shields.io/badge/slack-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="slack" />
-
-<img align="left" src="https://img.shields.io/badge/insomnia-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="insomnia" />
-
-<img align="left" src="https://img.shields.io/badge/vercel-1E90FF?labelColor=1E90FF&style=for-the-badge&logo=https://cdn.dribbble.com/users/3061686/screenshots/17599145/media/4d00ad57610b9f50bb00cc5a68654986.png&logoColor=FFFFFF" alt="vercel" />
-
-<br>
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+</div>
 
 ## Meus contatos
-<a alt="Linkedin" href="https://www.linkedin.com/in/daniel-josias-99482a208/"><img src="https://img.shields.io/badge/LINKEDIN-1E90FF?style=for-the-badge" alt="LINKEDIN" /></a>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-josias-99482a208/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+## Portfolio
+
 
 ![Snake animation](https://github.com/danieljosias/danieljosias/raw/output/github-contribution-grid-snake.svg)
+
