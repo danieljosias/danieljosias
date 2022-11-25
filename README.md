@@ -39,7 +39,7 @@
 
 ###
 
-## Portfolio: <a href="https://portfolio-daniel-josias.vercel.app/">click here</a>
+## Portfolio: <a href="https://portfolio-daniel-josias.vercel.app/" target="_blanck">click here</a>
 
 ###
 
