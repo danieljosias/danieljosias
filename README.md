@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30"> Olá, seja bem-vindo(a)!
+## 👋 Olá, seja bem-vindo(a)!
 
 ## :smiley: O meu nome é **Daniel Josias**.
 
