@@ -6,7 +6,7 @@
 
 ## ❤️ Sou apaixonado por **programação**.
 
-## 📚 Estudo programação há dois anos.
+## 📚 Estudo programação há três anos.
 
 ## 🛠️ E abaixo estão as minhas ferramentas de trabalho:
 
